@@ -10,7 +10,7 @@ Download the code from the [Github repository](https://github.com/rensyphon/Pro-
 
 ## Usage
 
-A video explaining how to start and use the program may be viewed here: .
+A video explaining how to start and use the program may be viewed here: https://drive.google.com/file/d/14eAg4Bp5ZaNsaFyenWJ0AhvvPyjIUBrh/view.
 
 Once the program is running, the user will be prompted to answer a series of questions. After inputing the answer to each one and pressing enter, the program will generate a pre-filled README file to the `/dist` folder as `readme.md`. A generated README has been included in the repo as an example.
 
